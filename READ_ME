@@ -1,0 +1,10 @@
+About this project:
+
+This project is designed to work with GMAIL.
+
+Please note that if you get authentication exception, please note that you have done these settings:
+
+1. Enable access for less secure Apps using this link
+2. Disable 2 step verification, if it's enabled on the account, this can be checked from gmail accounts settings
+
+Please note that you would be able to do these settings if you are signed in to the account you will be sending me for testing.
